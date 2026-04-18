@@ -123,7 +123,7 @@ El repositorio traía un workflow de test-coverage del código original del prof
 
 ```
 Run test coverage failed
-npm run test:cov → error
+npm run test:cov - error
 ```
 
 **Solución aplicada:**
@@ -193,7 +193,7 @@ Se subió el cambio:
 ```bash
 git pull origin main
 git add .
-git commit -m "Añadir headers para reconer apis externas"
+git commit -m "Añadir headers para reconocer apis externas"
 git push origin main
 ```
 
