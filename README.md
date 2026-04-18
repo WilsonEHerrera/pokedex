@@ -18,10 +18,10 @@ La aplicación permite explorar diferentes especies de Pokémon, mostrando infor
 
 ## Tecnologías utilizadas
 
-- **Angular** — Framework de desarrollo frontend
-- **PokéAPI** — API RESTful de datos Pokémon
-- **Azure Static Web Apps** — Plataforma de hospedaje en la nube
-- **GitHub Actions** — CI/CD automático en cada push
+- **Angular** - Framework de desarrollo frontend
+- **PokéAPI** - API RESTful de datos Pokémon
+- **Azure Static Web Apps** - Plataforma de hospedaje en la nube
+- **GitHub Actions** - CI/CD automático en cada push
 
 ---
 
